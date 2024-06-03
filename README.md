@@ -1,8 +1,8 @@
 # YC2VGA
 
-Yet Another simple YC to VGA adapter that can be dual purposed. Inspiration from Zaxour's https://github.com/zaxour/YC2VGA
+Yet Another simple YC to VGA adapter that can be dual purposed. Inspired by Zaxour's https://github.com/zaxour/YC2VGA
 * s-video output from the MiSTer FPGA's vga port
-* Enhanced s-video and composite inputs for the RetroTink4K.
+* Enhanced s-video and standard composite inputs for the RetroTink4K.
 
 Costs:
 * $5.50 + shipping for the parts from Digikey https://www.digikey.com/en/mylists/list/CXKH1Y667K
