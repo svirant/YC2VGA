@@ -6,7 +6,7 @@ Yet Another simple YC to VGA adapter that can be dual purposed. Inspiration from
 
 Costs:
 * $5.50 + shipping for the parts from Digikey https://www.digikey.com/en/mylists/list/CXKH1Y667K
-* $3.84 for the PCBs from JLCPCB. https://jlcpcb.com/
+* $3.84 shipped for the PCBs from JLCPCB. https://jlcpcb.com/
 * Can be much cheaper if purchased in bulk
 
 ![IMG_6666](https://github.com/svirant/YC2VGA/assets/62872229/82cb0b71-532c-49e8-9616-c1e606935e94)
