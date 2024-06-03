@@ -1,6 +1,6 @@
 # YC2VGA
 
-Yet Another simple YC to VGA adapter that can be dual purposed. Gerber file for PCB creation.
+Yet Another simple YC to VGA adapter that can be dual purposed. Inspiration from Zaxour's https://github.com/zaxour/YC2VGA
 * s-video output from the MiSTer FPGA's vga port
 * Enhanced s-video and composite inputs for the RetroTink4K.
 
