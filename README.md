@@ -9,6 +9,8 @@ Costs:
 * $3.84 shipped for the PCBs from JLCPCB. https://jlcpcb.com/
 * Can be much cheaper if purchased in bulk
 
+![IMG_6667](https://github.com/svirant/YC2VGA/assets/62872229/db955a87-b77d-49eb-ba84-e07d83f06ba7)
+![IMG_6668](https://github.com/svirant/YC2VGA/assets/62872229/38b66779-b65e-4cc9-90cf-6c70b90ad548)
 ![IMG_6666](https://github.com/svirant/YC2VGA/assets/62872229/82cb0b71-532c-49e8-9616-c1e606935e94)
 ![IMG_6660](https://github.com/svirant/YC2VGA/assets/62872229/78ed2bb8-1aad-4e54-aa33-786899e8f8f1)
 ![IMG_6663](https://github.com/svirant/YC2VGA/assets/62872229/7830bd27-a272-4363-ad4f-70cc4f5fe591)
